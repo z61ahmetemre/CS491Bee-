@@ -84,6 +84,12 @@ section {
     padding: 70px 0;
 }
 
+img-poster {
+    vertical-align: middle;
+    padding: 70px 0;
+    max-width: 1124px;
+}
+
 /*--------------------
 2. Navigation
 --------------------*/
